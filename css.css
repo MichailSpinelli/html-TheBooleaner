@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    padding-top: 30px;
+    color: white;
+}
+
+.Logo{
+    background-color: aqua;
+    height: 100px;
+}
+
+a{
+    color: aqua;
+}
+.colonna1{
+    width: 25%;
+    background-color: blue;
+    text-align: left;
+    color: white;
+}
+
+.colonna3{
+    background-color: blue;
+    text-align: left;
+    color: white;
+}
+
+.riga-colorata{
+    background-color: aqua;
+}
+
+#fine{
+    color: gray;
+}
